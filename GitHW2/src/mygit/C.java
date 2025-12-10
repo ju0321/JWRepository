@@ -3,7 +3,8 @@ package mygit;
 public class C {
 
 	public C() {
-		// TODO Auto-generated constructor stub
+		System.out.println("master에서 class C 수정");
+		A a = new A();
 	}
 
 }
